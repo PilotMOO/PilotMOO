@@ -1,0 +1,5 @@
+-  Hello there! I'm @PilotMOO
+- I'm an avid Modded MC enjoyer/Game designer (I'm learning ig)
+- Currently I'm learning how to make models inside of 3d modeling programs like Blender and Block Bench, while also learning C# and Unity. I'm trying my hand at MC modding aswell.
+- I enjoy making models inside of BlockBench for other mods, I've helped make some of the models inside of smaller infection mod known as "Fungal Infection: Spore"
+- You can message me via Gmail (Pilotmoo4u@gmail.com) but I don't check it everyday. Instead, it might be better to DM me via discord (Username: pilotmoo as of writing this)
